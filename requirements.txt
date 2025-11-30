@@ -1,0 +1,14 @@
+streamlit
+beautifulsoup4
+lxml
+requests
+pandas
+matplotlib
+plotly
+wordcloud
+nltk
+vaderSentiment
+fpdf
+geopy
+folium
+streamlit-folium
