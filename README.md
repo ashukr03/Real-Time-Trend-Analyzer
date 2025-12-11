@@ -58,7 +58,7 @@ Install dependencies:
 Run the application:
     streamlit run app.py
 
-
+Go Live:- https://real-time-trend-analyzer.streamlit.app/
 
 
 
